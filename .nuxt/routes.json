@@ -1,0 +1,16 @@
+[
+  {
+    "name": "photo",
+    "path": "/photo",
+    "component": "D:\\\\Web Dev\\\\Nuxtjs\\\\nuxt-app\\\\pages\\\\photo.vue",
+    "chunkName": "pages/photo",
+    "_name": "_6b212866"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Web Dev\\\\Nuxtjs\\\\nuxt-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6d8ac306"
+  }
+]
